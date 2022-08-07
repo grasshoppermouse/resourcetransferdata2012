@@ -1,7 +1,7 @@
 Package: resourcetransferdata2012
 Type: Package
 Title: Data from Aka, Ngandu, and MTurk Reputation and Resource Transfer Studies
-Version: 0.1.2
+Version: 0.1.3
 Author: Nicole Hess and Edward Hagen
 Maintainer: Edward Hagen <ehagen@gmail.com>
 Description: Data from gossip, reputation, and resource transfer experiments among MTurk (2011) and Ngandu (2012) populations, and Aka (2012) observational study.

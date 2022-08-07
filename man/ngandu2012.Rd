@@ -19,7 +19,7 @@ A data frame with 160 rows and 17 variables:
   \item{\code{friendly}}{double How friendly is the gossip target? (very unfriendly=1, very friendly=5)}
   \item{\code{afraid}}{double How afraid are you of the gossip target (very unafraid=1, very afraid=5)}
   \item{\code{argue}}{double If you do not give the clothes, how likely would the gossip target argue with you? (unlikely=1, likely=5)}
-  \item{\code{bad_things}}{double If you do not give the clothing, will the gossip target say bad things about you? (unlikely=1, likely=5)}
+  \item{\code{criticize}}{double If you do not give the clothing, will the gossip target say bad things about you? (unlikely=1, likely=5)}
   \item{\code{believe_positive}}{double How much do you believe the positive gossip? (don't believe=1, believe=5)}
   \item{\code{believe_negative}}{double How much do you believe the negative gossip? (don't believe=1, believe=5)}
   \item{\code{version}}{character Version of the questionnaire}

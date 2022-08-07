@@ -19,7 +19,7 @@ A data frame with 120 rows and 21 variables:
   \item{\code{competition}}{double How competitive do you feel with Dave/Elizabeth?}
   \item{\code{condition}}{character Family or work condition}
   \item{\code{work_gossip}}{double Work gossip score (number of positive statements out of 9 total)}
-  \item{\code{family_gossip}}{double  (number of positive statements out of 7 total)}
+  \item{\code{family_gossip}}{double (number of positive statements out of 7 total)}
   \item{\code{criticize}}{double How likely is Dave/Elizabeth to criticize you behind your back?}
   \item{\code{family_work}}{double In your experience, how much does work performance/personal affairs influence personal affairs/work performance?}
   \item{\code{friendly}}{double How friendly is Dave/Elizabeth?}
