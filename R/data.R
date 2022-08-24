@@ -57,8 +57,8 @@
 #' @description Ratings of each of each gossip statement in family and work conditions
 #' @format A data frame with 537 rows and 9 variables:
 #' \describe{
-#'   \item{\code{seq_id}}{double COLUMN_DESCRIPTION}
-#'   \item{\code{opp}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{id}}{double Informant ID}
+#'   \item{\code{sex}}{character Informant sex}
 #'   \item{\code{condition}}{character Family or work condition}
 #'   \item{\code{sex_informant}}{character Sex of the informant}
 #'   \item{\code{gossip_statement}}{double Code number of gossip statement}
