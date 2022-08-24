@@ -52,3 +52,20 @@
 #'}
 #' @details Data were collected Summer 2012. Participants were randomly assigned to the work or family condition, and to a specific distribution of positive and negative work gossip statements and family gossip statements.
 "ngandu2012"
+
+#' @title ngandu_ratings
+#' @description Ratings of each of each gossip statement in family and work conditions
+#' @format A data frame with 537 rows and 9 variables:
+#' \describe{
+#'   \item{\code{seq_id}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{opp}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{condition}}{character Family or work condition}
+#'   \item{\code{sex_informant}}{character Sex of the informant}
+#'   \item{\code{gossip_statement}}{double Code number of gossip statement}
+#'   \item{\code{rating}}{double Informant rating of gossip statement (very bad, bad, neutral, good, very good)}
+#'   \item{\code{gossip_type}}{character Family or work gossip}
+#'   \item{\code{gossip_valence}}{character Positive or negative gossip}
+#'   \item{\code{gossip_text}}{character The text of the gossip statement}
+#'}
+#' @details DETAILS
+"ngandu_ratings"
