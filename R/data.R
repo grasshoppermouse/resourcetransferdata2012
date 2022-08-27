@@ -69,3 +69,40 @@
 #'}
 #' @details DETAILS
 "ngandu_ratings"
+
+#' @title akagenealogy
+#' @description Genealogy of Aka members of two trails
+#' @format A data frame with 92 rows and 13 variables:
+#' \describe{
+#'   \item{\code{egoid}}{double Ego ID}
+#'   \item{\code{age}}{double Ego age}
+#'   \item{\code{sex}}{character Ego sex}
+#'   \item{\code{motherid}}{character Mother ID}
+#'   \item{\code{fatherid}}{character Father ID}
+#'   \item{\code{living}}{character Is ego living?}
+#'   \item{\code{trail}}{character Ego residence trail}
+#'   \item{\code{num_young_children}}{double Number of young children}
+#'   \item{\code{num_older_boys}}{double Number of older boys}
+#'   \item{\code{num_older_girls}}{double Number of older girls}
+#'   \item{\code{num_adult_offspring}}{integer Number of adult offspring}
+#'   \item{\code{total_offspring}}{double Total offspring}
+#'   \item{\code{avg_relatedness}}{double Average relatedness to other members of both trails}
+#'}
+#' @details DETAILS
+"akagenealogy"
+
+#' @title aka_ratings
+#' @description Peer ratings of Aka members of two trails
+#' @format A data frame with 40 rows and 9 variables:
+#' \describe{
+#'   \item{\code{id}}{character Target ID}
+#'   \item{\code{reputation}}{double Target reputation}
+#'   \item{\code{rep_rater}}{double Reputation of rater (all targets were also raters)}
+#'   \item{\code{give}}{double How much does target share with others?}
+#'   \item{\code{receive}}{double How much does target receive from others?}
+#'   \item{\code{workhard}}{double How hard does the target work?}
+#'   \item{\code{parenting}}{double How good a parent is the target?}
+#'   \item{\code{angry}}{double How angry is the target?}
+#'}
+#' @details DETAILS
+"aka_ratings"
