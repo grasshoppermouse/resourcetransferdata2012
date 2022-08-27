@@ -14,19 +14,19 @@ A data frame with 92 rows and 13 variables:
   \item{\code{fatherid}}{character Father ID}
   \item{\code{living}}{character Is ego living?}
   \item{\code{trail}}{character Ego residence trail}
+  \item{\code{avg_relatedness}}{double Average relatedness to other members of both trails}
   \item{\code{num_young_children}}{double Number of young children}
   \item{\code{num_older_boys}}{double Number of older boys}
   \item{\code{num_older_girls}}{double Number of older girls}
   \item{\code{num_adult_offspring}}{integer Number of adult offspring}
   \item{\code{total_offspring}}{double Total offspring}
-  \item{\code{avg_relatedness}}{double Average relatedness to other members of both trails}
 }
 }
 \usage{
 akagenealogy
 }
 \description{
-Genealogy of Aka members of two trails
+Genealogy of Aka members of two trails in 2012
 }
 \details{
 DETAILS

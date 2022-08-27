@@ -13,7 +13,7 @@ A data frame with 40 rows and 9 variables:
   \item{\code{give}}{double How much does target share with others?}
   \item{\code{receive}}{double How much does target receive from others?}
   \item{\code{workhard}}{double How hard does the target work?}
-  \item{\code{parenting}}{double How good a parent is the target?}
+  \item{\code{parenting}}{double How good a parent or alloparent is the target? (Targets without children were rated on alloparenting)}
   \item{\code{angry}}{double How angry is the target?}
 }
 }
@@ -21,7 +21,7 @@ A data frame with 40 rows and 9 variables:
 aka_ratings
 }
 \description{
-Peer ratings of Aka members of two trails
+Peer ratings of Aka members of two trails. Study conducted 2012.
 }
 \details{
 DETAILS
